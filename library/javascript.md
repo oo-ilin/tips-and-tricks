@@ -6,7 +6,8 @@
     - [Слайдеры](#sliders)
     - [Scroll page](#scroll-page)
 - [Online инструменты](#online-tools)
-- [Videos](#videos)
+- [Документация](#document)
+- [Tutorials](#tutorials)
 - [Slides](#slides)
 - [Courses](#courses)
 - [Books](#books)
@@ -27,3 +28,12 @@
 
 ### Online tools
 * [Dan's Tools](http://www.danstools.com/) - набор валидаторов, генераторов и минификаторов
+* [What's my IP?](http://fmbip.com/) - сайт помогает вам определить, какие HTML5/CSS3-функции поддерживаются вашим браузером, а какие нет.
+
+### Document
+*Документация по технологиям и языкам*
+* [OverAPI.com](http://overapi.com/) - Collecting All Cheat Sheets
+* [Development by ZEEF](https://development.zeef.com/hub)
+
+### Tutorials
+*Различные уроки*
