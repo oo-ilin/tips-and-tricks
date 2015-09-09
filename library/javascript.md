@@ -11,6 +11,7 @@
 - [Slides](#slides)
 - [Courses](#courses)
 - [Books](#books)
+- [Video (&#9658;)](#video)
 - [Some Questions](#some-questions)
 
 ## Libraries
@@ -18,7 +19,8 @@
 ### Sliders
 *Слайдеры и карусели.*
 
-* [bxSlider (&#9658;)](http://bxslider.com/) - The Responsive jQuery Content Slider
+* [bxSlider](http://bxslider.com/) - The Responsive jQuery Content Slider
+* [Owl Carousel 2](http://www.owlcarousel.owlgraphic.com/) - Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.
 
 
 ### Scroll Page
